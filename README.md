@@ -8,5 +8,6 @@
 2 Data Preprocessing
 * Data Cleaning
 
-3.Exploratory Data Analysis
+3 Exploratory Data Analysis
 * Visualization
+
